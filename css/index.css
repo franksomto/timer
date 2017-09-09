@@ -1,0 +1,33 @@
+body {
+  background-image: url("http://thewallpaper.co/wp-content/uploads/2016/10/Free-Plain-pink-black-star-background-full-hd-colourful-download-wallpapers-quality-images-computer-wallpapers-cool-best-artwork-2560x1600.jpg");
+  background-size: 100%;
+}
+
+.block {
+  background: rgba(0, 0, 0, .5);
+  color: purple;
+  padding: 30px;
+  width: 50%;
+  font-family: geneva;
+  border-radius: 50%;
+}
+.space {
+  padding: 20px;
+}
+h3 {
+  display: inline;
+}
+#start, #reset {
+  margin: 10px;
+}
+.custom {
+  color: black;
+  background-color: white;
+}
+.design {
+  color: white;
+  font-size: 5em;
+  font-family: Brush Script Std, Brush Script MT, cursive;
+
+  font-weight: 900;
+}
